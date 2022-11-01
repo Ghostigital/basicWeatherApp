@@ -1,0 +1,2 @@
+# basicWeatherApp
+Followed a tutorial
